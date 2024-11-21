@@ -1,1 +1,2 @@
-# SWAPI_SQL
+# Introduction
+This repo hosts a python jupyter notebook that automatically downloads all data from [The Star Wars API](https://swapi.dev/), builds a local SQL database, and conducts data analysis on the SQL database.
